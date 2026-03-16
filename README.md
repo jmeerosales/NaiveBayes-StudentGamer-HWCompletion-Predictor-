@@ -25,7 +25,7 @@ These charts show the frequency of responses across our four main features.
 
 ## Probability Tables (Likelihood)
 Using the Naive Bayes algorithm, we converted the counts into likelihood probabilities. This allows us to see how much each factor "weighs" toward a YES or NO outcome for homework completion.
-![Likelihood Tables](data/data_set.jpg)
+![Likelihood Tables](data/data_set.png)
 
 ## Mathematical Calculation
 To predict a new scenario, we apply Bayes' Theorem:
