@@ -34,7 +34,7 @@ $$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$$
 Below is the manual calculation for a student with **Stable Internet, Normal Energy, Medium Workload, and Friends Online**:
 ![Naive Bayes Formula Breakdown](data/formula.png)
 
-> **Observation:** In our "NO" calculation, the probability dropped to **0** because some category combinations had no data points. In a real-world scenario, we would use **Laplace Smoothing** to ensure no probability is ever exactly zero.
+> **Observation:** In our "NO" calculation, the probability dropped to **0** because some category combinations had no data points. 
 
 ## Final Prediction Result
 The final probability score shows a clear winner. Based on the data, a student in this specific scenario has a much higher probability of finishing their homework.
